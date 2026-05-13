@@ -60,7 +60,7 @@ export default function AboutPage() {
             <h3 className="text-2xl font-bold mb-1">越智 恵梨奈</h3>
             <p className="text-crimson font-bold text-sm mb-4">Co-Representative Director / Meaning Architect</p>
             <p className="text-sm leading-relaxed opacity-80">
-              多様なステークホルダーが有機的につながり、新たな価値が生まれる「共創の仕組み」を社会に実装することをテーマに、事業・組織・場づくりに取り組む。リクルート・博報堂・デジタルガレージにて新規事業、ブランド戦略、事業成長を推進。独立後は大企業・自治体・スタートアップに対し、構想策定から黒字化・組織化・自走化まで一気通貫で伴走し、IPOを含む複数の事業成長を手がける。産官民共創の国際イベントでは立ち上げ時から毎年10万人超を動かす広報・発信を担った。MBA（経営学修士）ではイノベーション・エコシステム・プラットフォーム戦略を研究。オンザライスでは、事業戦略・ブランド・ナラティブ設計・対外発信・B2B企画を担当。
+              リクルート、博報堂、デジタルガレージを経て独立。大企業・自治体・スタートアップの構想策定から黒字化・ 組織化まで一気通貫で伴走し、IPOを含む事業成長を牽引。 MBAにてエコシステム戦略を研究。オンザライスでは、多様な主体がつながる「共創の仕組み」の社会実装をテーマに、事業戦略・ブランド・ナラティブ設計を統括する。
             </p>
           </div>
           <div className="bg-white p-8 rounded-2xl shadow-sm">
