@@ -88,7 +88,8 @@ export default function Home() {
             <p className="text-sm opacity-80">調査で終わらせず、商品・事業・地域施策へ。</p>
           </div>
           <div className="bg-white p-8 rounded-2xl">
-            <h3 className="font-bold text-lg mb-2">共創セッション / ワークショップ</h3>
+            {/* ▼ ワークショップから対話プログラムへ変更 */}
+            <h3 className="font-bold text-lg mb-2">共創セッション・対話プログラム</h3>
             <p className="text-sm opacity-80">半日から、食文化を事業テーマに変える。</p>
           </div>
         </div>
