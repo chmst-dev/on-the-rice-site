@@ -38,13 +38,16 @@ export default function ServicesPage() {
             <h4 className="font-bold border-b pb-2 mb-4">想定顧客</h4>
             <ul className="list-disc pl-5 space-y-2 opacity-80 mb-8">
               <li>食品メーカー / 調味料メーカー / 飲料メーカー</li>
+              {/* ▼ 調理家電メーカーを追加 */}
+              <li>調理家電メーカー</li>
               <li>流通・小売</li>
               <li>自治体 / JA・地域事業者</li>
               <li>研究機関</li>
             </ul>
             <div className="bg-rice-100 p-4 rounded-lg inline-block">
               <span className="text-sm font-bold opacity-70 block mb-1">価格目安</span>
-              <span className="font-bold text-lg">個別見積 / 50万円〜</span>
+              {/* ▼ 50万から80万へ変更 */}
+              <span className="font-bold text-lg">個別見積 / 80万円〜</span>
             </div>
           </div>
         </div>
@@ -82,15 +85,17 @@ export default function ServicesPage() {
         </div>
       </Section>
 
-      <Section title="共創セッション / ワークショップ">
+     {/* ▼ 見出しを「対話プログラム」へ変更 */}
+      <Section title="共創セッション・対話プログラム">
         <p className="text-xl font-bold text-crimson mb-8">まずは半日で、「ごはんがすすむ価値」を事業テーマに変える。</p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           <div>
             <h4 className="font-bold border-b pb-2 mb-4">提供内容</h4>
             <ul className="list-disc pl-5 space-y-2 opacity-80">
               <li>食文化インサイトセッション</li>
-              <li>商品コンセプト共創ワークショップ</li>
-              <li>地域資源の再編集ワークショップ</li>
+              {/* ▼ ワークショップという言葉を対話やプログラムに寄せる */}
+              <li>商品コンセプト共創プログラム</li>
+              <li>地域資源の再編集セッション</li>
               <li>自治体・企業向け共創プログラム</li>
               <li>経営・事業開発向け壁打ち</li>
             </ul>
@@ -98,7 +103,8 @@ export default function ServicesPage() {
           <div>
             <div className="bg-rice-100 p-4 rounded-lg inline-block mt-8">
               <span className="text-sm font-bold opacity-70 block mb-1">価格目安</span>
-              <span className="font-bold text-lg">個別見積 / 30万円〜</span>
+              {/* ▼ 30万から50万へ変更 */}
+              <span className="font-bold text-lg">個別見積 / 50万円〜</span>
             </div>
           </div>
         </div>
