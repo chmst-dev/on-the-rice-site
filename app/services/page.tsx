@@ -79,7 +79,7 @@ export default function ServicesPage() {
             </ul>
             <div className="bg-white p-4 rounded-lg inline-block">
               <span className="text-sm font-bold opacity-70 block mb-1">価格目安</span>
-              <span className="font-bold text-lg">個別見積 / 150万円〜</span>
+              <span className="font-bold text-lg">個別見積 / 200万円〜</span>
             </div>
           </div>
         </div>
